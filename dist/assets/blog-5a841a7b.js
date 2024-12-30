@@ -1,0 +1,1 @@
+import{l as o}from"./index-ca4eb09b.js";const r=o("blog",{state:()=>({articles:[],loading:!1}),actions:{async fetchArticles(){this.loading=!0;try{}catch(e){console.error(e)}finally{this.loading=!1}}}});export{r as u};
